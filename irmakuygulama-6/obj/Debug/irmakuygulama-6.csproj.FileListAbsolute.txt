@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\obj\Debug\irmakuygulama-6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\obj\Debug\irmakuygulama-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\obj\Debug\irmakuygulama_6.Form1.resources
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\obj\Debug\irmakuygulama_6.Properties.Resources.resources
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\obj\Debug\irmakuygulama-6.csproj.GenerateResource.cache
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\obj\Debug\irmakuygulama-6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\bin\Debug\irmakuygulama-6.exe.config
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\bin\Debug\irmakuygulama-6.exe
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\bin\Debug\irmakuygulama-6.pdb
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\obj\Debug\irmakuygulama-6.exe
+C:\Users\User\source\repos\irmakuygulama-6\irmakuygulama-6\obj\Debug\irmakuygulama-6.pdb
